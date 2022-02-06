@@ -21,6 +21,26 @@ const Hero = () => (
             <a>Sign in</a>
           </Link>
         </li>
+        <li>
+          <Link href="/">
+            <a>Sign in</a>
+          </Link>
+        </li>
+        <li>
+          <Link href="/">
+            <a>Sign in</a>
+          </Link>
+        </li>
+        <li>
+          <Link href="/">
+            <a>Sign in</a>
+          </Link>
+        </li>
+        <li>
+          <Link href="/">
+            <a>Sign in</a>
+          </Link>
+        </li>
       </NavbarTwoColumns>
     </Section>
 
